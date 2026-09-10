@@ -1,0 +1,24 @@
+section h1 {
+    color: #000;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 60px;
+    margin-bottom: 10px;
+}
+
+section h1 span {
+    color: #DC1111;
+}
+
+section input {
+    border-radius: 8px 0 0 8px;
+    background: rgba(255, 255, 255, 0.70);
+    color: #666;
+    font-size: 12px;
+    font-weight: 400;
+    padding: 10px 20px;
+    border: none;
+}
+.search_container button {
+    border-radius: 0 9px 9px 0 !important; 
+}
